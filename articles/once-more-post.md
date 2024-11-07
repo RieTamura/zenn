@@ -3,7 +3,7 @@ title: "忘れないうちにもう一回投稿（ごめん！）"
 emoji: "🙏"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["zenn","再投稿"]
-published: false
+published: true
 ---
 # 忘れないうちに
 もういい加減「歳」なので、忘れないうちにVSCodeから再度投稿です。
